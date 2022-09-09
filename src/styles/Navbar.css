@@ -1,0 +1,13 @@
+.dropdown{
+    margin-right: auto;
+}
+.me-auto{
+    margin-right: 0!important;
+}
+.heading ul{
+    padding: 0;
+}
+.heading ul li{
+    list-style: none;
+    font-family: 'Oswald', sans-serif;
+}

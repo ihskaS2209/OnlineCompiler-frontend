@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(238, 234, 234);
+}
+
+.editor,
+.output-border
+{
+    border:1rem solid #c9c7c7;
+    padding: 0.1rem;
+}
+.out{
+    padding: 0;
+}
+.out-back{
+    padding: 1.3rem;
+    padding-left: 0.3rem;
+}
+.container .submit-btn{
+    background-color: #58cdf3;
+}
+.container .submit-btn:hover{
+    background-color: #4fc7ef;
+}
+.App h1{
+    display: block;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    margin: 1rem 0 2rem 0;
+}
+
+.row2{
+    height: 100%;
+
+}
+
+.col2{
+    height: 88vh;
+
+}

@@ -1,0 +1,8 @@
+.output-box{
+    border: 1px solid white;
+    height: 83vh;
+    padding: 0.5rem;
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 17px;
+    color: blue;
+}
